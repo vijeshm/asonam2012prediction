@@ -1,0 +1,41 @@
+-------------------------------------------------------------------------------
+
+Bin Score DCI :  77 0.816622590405
+Bin Score Eigen:  77 0.69938091598
+Bin Score Betweenness:  77 0.747729497223
+Bin Score Degree:  77 0.762845117096
+
+The plot denotes various BQM score of various methods where $\eta_{DCR\betweenness}=0.816622590405$ $\eta_{betweenness}=0.747729497223$, $\eta_{eigen}=0.69938091598$, $\eta_{degree}=0.762845117096$ for a BA model(1000 nodes,3 connections) and 50 Synthetic networks generated. 
+
+The plot denotes the BQM score for various binning methodologies for the reference graph $G_m$ of 1000 nodes and 3 connections. In our experiment, we have set $\alpha = 50$.The results we obtained are as follows:
+$\eta_{DCR_{betweenness}}=0.816622590405$\\
+$\eta_{degree}=0.762845117096$\\
+$\eta_{betweenness}=0.747729497223$\\
+$\eta_{eigen}=0.69938091598$\\
+number of bins = 77
+
+Bin Score DCI :  96 0.804513946531
+Bin Score Eigen:  91 0.695466553648
+Bin Score Betweenness:  91 0.759827243464
+Bin Score Degree:  91 0.767615011251
+
+
+The plot denotes the BQM score for various binning methodologies for the reference graph $G_m$ of 1000 nodes and 3 connections. In our experiment, we have set $\alpha = 50$.The results we obtained are as follows:
+$\eta_{DCR_{degree}}=0.804513946531$\\
+$\eta_{degree}=0.767615011251$\\
+$\eta_{betweenness}=0.759827243464$\\
+$\eta_{eigen}=0.695466553648$\\
+number of bins = 91
+
+
+Bin Score DCI :  65 0.855694227443
+Bin Score Eigen:  63 0.69772265425
+Bin Score Betweenness:  63 0.751796114951
+Bin Score Degree:  63 0.761348726318
+
+The plot denotes the BQM score for various binning methodologies for the reference graph $G_m$ of 1000 nodes and 3 connections. In our experiment, we have set $\alpha = 50$.The results we obtained are as follows:
+$\eta_{DCR_{degree}}=0.855694227443$\\
+$\eta_{degree}=0.761348726318$\\
+$\eta_{betweenness}=0.751796114951$\\
+$\eta_{eigen}=0.69772265428$\\
+number of bins = 63

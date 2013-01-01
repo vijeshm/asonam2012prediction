@@ -1,0 +1,58 @@
+\begin{thebibliography}{10}
+
+\bibitem{barabasi02}
+R.~Albert and A.~L. Barab\'{a}si.
+\newblock {Statistical mechanics of complex networks}.
+\newblock {\em Reviews of Modern Physics}, 74(1):47--97, January 2002.
+
+\bibitem{bancal}
+J.-D. Bancal and R.~Pastor-Satorras.
+\newblock Steady-state dynamics of the forest fire model on complex networks.
+\newblock {\em The European Physical Journal B - Condensed Matter and Complex
+  Systems}, 76:109--121, 2010.
+\newblock 10.1140/epjb/e2010-00165-7.
+
+\bibitem{barabasi99-1}
+A.~L. Barab\'{a}si and R.~Albert.
+\newblock {Emergence of Scaling in Random Networks}.
+\newblock {\em Science}, 286(5439):509--512, October 1999.
+
+\bibitem{bonacich72}
+P.~Bonacich.
+\newblock {Factoring and weighting approaches to status scores and clique
+  identification}.
+\newblock {\em Journal of Mathematical Sociology}, 2(1):113--120, 1972.
+
+\bibitem{borgatti06}
+S.~Borgatti and M.~Everett.
+\newblock A graph-theoretic perspective on centrality.
+\newblock {\em Social Networks}, 28(4):466--484, October 2006.
+
+\bibitem{brandes01}
+U.~Brandes.
+\newblock A faster algorithm for betweenness centrality.
+\newblock {\em Journal of Mathematical Sociology}, 25:163--177, 2001.
+
+\bibitem{zweig05}
+U.~Brandes and T.~Erlebach.
+\newblock {Network Analysis. Methodological Foundations}.
+\newblock {\em Network Analysis, Lecture Notes in Computer Science}, 3418,
+  2005.
+
+\bibitem{fanchung}
+T.~Gregory~Dewey Fan~Chung, Linyuan~Lu and David~J. Galas.
+\newblock Duplication models for biological networks.
+\newblock {\em Journal of Computational Biology.}, pages 677--687, October
+  2003.
+
+\bibitem{freeman77}
+L.~C. Freeman.
+\newblock A set of measures of centrality based on betweenness.
+\newblock {\em Sociometry}, 40(1):35--41, 1977.
+
+\bibitem{freeman79}
+L.~C. Freeman.
+\newblock {Centrality in social networks: Conceptual clarification}.
+\newblock {\em I. Social Networks}, 1:215--239, 1979.
+
+\end{thebibliography}
